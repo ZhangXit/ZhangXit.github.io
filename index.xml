@@ -1,35 +1,221 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AcademicTest</title>
+    <title>Xitong Zhang</title>
     <link>https://ZhangXit.github.io/</link>
       <atom:link href="https://ZhangXit.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>AcademicTest</description>
+    <description>Xitong Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZhangXit.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>AcademicTest</title>
+      <title>Xitong Zhang</title>
       <link>https://ZhangXit.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://ZhangXit.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://ZhangXit.github.io/talk/example-talk/</guid>
+      <title>PAC-tuning: Fine-tuning Pre-trained Language Models with PAC-driven Perturbed Gradient Descent</title>
+      <link>https://ZhangXit.github.io/publication/pactuning/</link>
+      <pubDate>Sat, 07 Oct 2023 12:24:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/pactuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking Tuning-Free Generalization: Minimizing the PAC-Bayes Bound with Trainable Priors</title>
+      <link>https://ZhangXit.github.io/talk/unlocking-tuning-free-generalization-minimizing-the-pac-bayes-bound-with-trainable-priors/</link>
+      <pubDate>Wed, 04 Oct 2023 16:00:41 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/unlocking-tuning-free-generalization-minimizing-the-pac-bayes-bound-with-trainable-priors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking Tuning-free Generalization: Minimizing the PAC-Bayes Bound with Trainable Priors</title>
+      <link>https://ZhangXit.github.io/publication/preprint-pac-bayes/</link>
+      <pubDate>Sun, 01 Oct 2023 10:29:58 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/preprint-pac-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit and Implicit Regularization in Machine Learning</title>
+      <link>https://ZhangXit.github.io/talk/explicit-and-implicit-regularization-in-machine-learning/</link>
+      <pubDate>Fri, 11 Aug 2023 15:00:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/explicit-and-implicit-regularization-in-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inpainting and Outpainting with Diffusion Models</title>
+      <link>https://ZhangXit.github.io/project/diffusion/</link>
+      <pubDate>Thu, 10 Aug 2023 14:08:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/project/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Directed Graph Neural Networks be Adversarially Robust?</title>
+      <link>https://ZhangXit.github.io/publication/directrobust/</link>
+      <pubDate>Sat, 03 Jun 2023 12:21:45 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/directrobust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of Spatiotemporal Data Mining–Applications in Traffic and Geophysics</title>
+      <link>https://ZhangXit.github.io/talk/introduction-of-spatiotemporal-data-miningapplications-in-traffic-and-geophysics/</link>
+      <pubDate>Mon, 22 May 2023 10:30:02 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/introduction-of-spatiotemporal-data-miningapplications-in-traffic-and-geophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit regularization in Heavy-ball momentum accelerated stochastic gradient descent</title>
+      <link>https://ZhangXit.github.io/publication/implicit/</link>
+      <pubDate>Thu, 02 Feb 2023 12:28:34 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/implicit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced prediction accuracy with uncertainty quantification in monitoring CO2 sequestration using convolutional neural networks</title>
+      <link>https://ZhangXit.github.io/publication/uncertainco2/</link>
+      <pubDate>Thu, 08 Dec 2022 12:37:34 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/uncertainco2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenFWI: Large-scale Multi-structural Benchmark Datasets for Full Waveform Inversion</title>
+      <link>https://ZhangXit.github.io/publication/openfwi/</link>
+      <pubDate>Tue, 06 Dec 2022 13:07:31 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/openfwi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenFWI Datasets</title>
+      <link>https://ZhangXit.github.io/project/example/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZhangXit.github.io/project/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Graph Convolutional Networks for Earthquake Source Characterization</title>
+      <link>https://ZhangXit.github.io/publication/journal-article/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZhangXit.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Inversion of Multi-physics Data for Geophysical Properties</title>
+      <link>https://ZhangXit.github.io/publication/extremeweak/</link>
+      <pubDate>Mon, 15 Aug 2022 12:50:32 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/extremeweak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning of full-waveform inversion: Connecting CNN and partial differential equation in a loop</title>
+      <link>https://ZhangXit.github.io/publication/conference-paper/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZhangXit.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch Geometric Signed Directed</title>
+      <link>https://ZhangXit.github.io/project/pygsd/</link>
+      <pubDate>Tue, 22 Feb 2022 14:03:35 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/project/pygsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch Geometric Signed Directed: A Software Package on Graph Neural Networks for Signed and Directed Graphs</title>
+      <link>https://ZhangXit.github.io/publication/pygsd/</link>
+      <pubDate>Tue, 22 Feb 2022 13:35:03 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/pygsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Invisible Visible: Data-Driven Seismic Inversion With Spatio-Temporally Constrained Data Augmentation</title>
+      <link>https://ZhangXit.github.io/publication/dataaug/</link>
+      <pubDate>Tue, 18 Jan 2022 12:53:53 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/dataaug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnet: A neural network for directed graphs</title>
+      <link>https://ZhangXit.github.io/publication/magnet/</link>
+      <pubDate>Mon, 06 Dec 2021 11:31:01 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/magnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A deep learning-based segmentation pipeline for profiling cellular morphodynamics using multiple types of live cell microscopy</title>
+      <link>https://ZhangXit.github.io/publication/cellreport/</link>
+      <pubDate>Mon, 22 Nov 2021 13:25:15 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/cellreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connect the Dots: In Situ 4-D Seismic Monitoring of CO2 Storage With Spatio-Temporal CNNs</title>
+      <link>https://ZhangXit.github.io/publication/connectdots/</link>
+      <pubDate>Fri, 08 Oct 2021 13:21:03 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/connectdots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Seismic Inversion: Learning to Solve Inverse Problems via Physics-Informed Networks</title>
+      <link>https://ZhangXit.github.io/talk/data-driven-seismic-inversion-learning-to-solve-inverse-problems-via-physics-informed-networks/</link>
+      <pubDate>Thu, 30 Sep 2021 16:00:22 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/data-driven-seismic-inversion-learning-to-solve-inverse-problems-via-physics-informed-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquake Source Characterization with Graphical Deep Learning</title>
+      <link>https://ZhangXit.github.io/talk/earthquake-source-characterization-with-graphical-deep-learning/</link>
+      <pubDate>Tue, 15 Dec 2020 16:00:00 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/earthquake-source-characterization-with-graphical-deep-learning/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -110,6 +296,54 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms</title>
+      <link>https://ZhangXit.github.io/publication/shoreline/</link>
+      <pubDate>Fri, 03 Apr 2020 11:43:17 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/shoreline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms Authors</title>
+      <link>https://ZhangXit.github.io/talk/shoreline-data-driven-threshold-estimation-of-online-reserves-of-cryptocurrency-trading-platforms-authors/</link>
+      <pubDate>Sun, 09 Feb 2020 15:45:45 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/shoreline-data-driven-threshold-estimation-of-online-reserves-of-cryptocurrency-trading-platforms-authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosted Trajectory Calibration for Traffic State Estimation</title>
+      <link>https://ZhangXit.github.io/talk/boosted-trajectory-calibration-for-traffic-state-estimation/</link>
+      <pubDate>Sun, 10 Nov 2019 10:00:00 +0000</pubDate>
+      <guid>https://ZhangXit.github.io/talk/boosted-trajectory-calibration-for-traffic-state-estimation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boosted trajectory calibration for traffic state estimation</title>
+      <link>https://ZhangXit.github.io/publication/btrac/</link>
+      <pubDate>Fri, 08 Nov 2019 11:54:22 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/btrac/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -216,7 +450,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-978245613&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-748965231&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +460,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-978245613&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-748965231&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -507,20 +741,6 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://ZhangXit.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZhangXit.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://ZhangXit.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -705,62 +925,11 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://ZhangXit.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ZhangXit.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
+      <title>FeedGrain Visualization</title>
       <link>https://ZhangXit.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://ZhangXit.github.io/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://ZhangXit.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://ZhangXit.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://ZhangXit.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ZhangXit.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

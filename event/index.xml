@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | AcademicTest</title>
+    <title>Recent &amp; Upcoming Talks | Xitong Zhang</title>
     <link>https://ZhangXit.github.io/event/</link>
       <atom:link href="https://ZhangXit.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Oct 2023 16:00:41 -0400</lastBuildDate>
     <image>
       <url>https://ZhangXit.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,22 +13,74 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://ZhangXit.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://ZhangXit.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Unlocking Tuning-Free Generalization: Minimizing the PAC-Bayes Bound with Trainable Priors</title>
+      <link>https://ZhangXit.github.io/talk/unlocking-tuning-free-generalization-minimizing-the-pac-bayes-bound-with-trainable-priors/</link>
+      <pubDate>Wed, 04 Oct 2023 16:00:41 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/unlocking-tuning-free-generalization-minimizing-the-pac-bayes-bound-with-trainable-priors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit and Implicit Regularization in Machine Learning</title>
+      <link>https://ZhangXit.github.io/talk/explicit-and-implicit-regularization-in-machine-learning/</link>
+      <pubDate>Fri, 11 Aug 2023 15:00:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/explicit-and-implicit-regularization-in-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of Spatiotemporal Data Mining–Applications in Traffic and Geophysics</title>
+      <link>https://ZhangXit.github.io/talk/introduction-of-spatiotemporal-data-miningapplications-in-traffic-and-geophysics/</link>
+      <pubDate>Mon, 22 May 2023 10:30:02 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/introduction-of-spatiotemporal-data-miningapplications-in-traffic-and-geophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Seismic Inversion: Learning to Solve Inverse Problems via Physics-Informed Networks</title>
+      <link>https://ZhangXit.github.io/talk/data-driven-seismic-inversion-learning-to-solve-inverse-problems-via-physics-informed-networks/</link>
+      <pubDate>Thu, 30 Sep 2021 16:00:22 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/data-driven-seismic-inversion-learning-to-solve-inverse-problems-via-physics-informed-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquake Source Characterization with Graphical Deep Learning</title>
+      <link>https://ZhangXit.github.io/talk/earthquake-source-characterization-with-graphical-deep-learning/</link>
+      <pubDate>Tue, 15 Dec 2020 16:00:00 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/earthquake-source-characterization-with-graphical-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms Authors</title>
+      <link>https://ZhangXit.github.io/talk/shoreline-data-driven-threshold-estimation-of-online-reserves-of-cryptocurrency-trading-platforms-authors/</link>
+      <pubDate>Sun, 09 Feb 2020 15:45:45 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/talk/shoreline-data-driven-threshold-estimation-of-online-reserves-of-cryptocurrency-trading-platforms-authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosted Trajectory Calibration for Traffic State Estimation</title>
+      <link>https://ZhangXit.github.io/talk/boosted-trajectory-calibration-for-traffic-state-estimation/</link>
+      <pubDate>Sun, 10 Nov 2019 10:00:00 +0000</pubDate>
+      <guid>https://ZhangXit.github.io/talk/boosted-trajectory-calibration-for-traffic-state-estimation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     
