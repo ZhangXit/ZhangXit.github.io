@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Towards Understanding Task-agnostic Debiasing Through the Lenses of Intrinsic Bias and Forgetfulness</title>
+      <link>https://ZhangXit.github.io/publication/forget/</link>
+      <pubDate>Thu, 06 Jun 2024 12:24:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/forget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition</title>
       <link>https://ZhangXit.github.io/publication/compression/</link>
       <pubDate>Mon, 06 May 2024 12:24:52 -0400</pubDate>
@@ -474,7 +482,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-425183967&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-815376429&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -484,7 +492,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-425183967&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-815376429&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
