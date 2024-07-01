@@ -5,12 +5,20 @@
     <link>https://ZhangXit.github.io/publication-type/3/</link>
       <atom:link href="https://ZhangXit.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 10:29:58 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 May 2024 12:24:52 -0400</lastBuildDate>
     <image>
       <url>https://ZhangXit.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://ZhangXit.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition</title>
+      <link>https://ZhangXit.github.io/publication/compression/</link>
+      <pubDate>Mon, 06 May 2024 12:24:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/compression/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unlocking Tuning-free Generalization: Minimizing the PAC-Bayes Bound with Trainable Priors</title>

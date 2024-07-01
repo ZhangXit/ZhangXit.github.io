@@ -5,12 +5,36 @@
     <link>https://ZhangXit.github.io/publication/</link>
       <atom:link href="https://ZhangXit.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Oct 2023 12:24:52 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 12:24:52 -0400</lastBuildDate>
     <image>
       <url>https://ZhangXit.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ZhangXit.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Optimal Eye Surgeon: Finding image priors through sparse generators at initialization</title>
+      <link>https://ZhangXit.github.io/publication/oes/</link>
+      <pubDate>Fri, 07 Jun 2024 12:24:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/oes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition</title>
+      <link>https://ZhangXit.github.io/publication/compression/</link>
+      <pubDate>Mon, 06 May 2024 12:24:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Metabolic States from Single Cell Transcriptomic Data via Geometric Deep Learning</title>
+      <link>https://ZhangXit.github.io/publication/infer/</link>
+      <pubDate>Mon, 29 Apr 2024 12:24:52 -0400</pubDate>
+      <guid>https://ZhangXit.github.io/publication/infer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PAC-tuning: Fine-tuning Pre-trained Language Models with PAC-driven Perturbed Gradient Descent</title>
